@@ -1,0 +1,3 @@
+com/redbean/dubbo/samples/api/user/result/UserResult.class
+com/redbean/dubbo/samples/api/user/param/UserParam.class
+com/redbean/dubbo/samples/api/user/UserExportService.class
